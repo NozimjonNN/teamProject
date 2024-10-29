@@ -1,5 +1,5 @@
 import React from 'react';
-import './Faq.css'; // Подключаем CSS файл
+import './Faq.css';
 
 const Faq = () => {
   const faqs = [
